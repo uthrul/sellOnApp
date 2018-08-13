@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

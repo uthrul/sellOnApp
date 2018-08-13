@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCViewController.m \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCExternalViewControllerProtocol.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/Helpers/RCCTitleViewHelper.h \
+  /Users/sauthrully/Desktop/project/ProjectRNExpo/sellOnApp/node_modules/react-native-navigation/ios/RCCCustomTitleView.h
