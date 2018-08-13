@@ -1351,7 +1351,7 @@ public final class R {
         public static final int ActionBar_backgroundSplit = 1;
         public static final int ActionBar_backgroundStacked = 2;
         public static final int ActionBar_contentInsetEnd = 3;
-        public static final int ActionBar_contentInsetEndWith = 4;
+        public static final int ActionBar_contentInsetEndWithActions = 4;
         public static final int ActionBar_contentInsetLeft = 5;
         public static final int ActionBar_contentInsetRight = 6;
         public static final int ActionBar_contentInsetStart = 7;
