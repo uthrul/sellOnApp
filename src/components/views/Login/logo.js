@@ -21,14 +21,18 @@ class Logo extends Component {
                 easing:Easing.easeOutcubic
             }),
         ]).start(()=>{
-            alert('Done')
+            this.props.showLogin()
         })
     }
 
     render() {
         return (
             <View>
-                <View style={styles.LogoStyles}>
+                <View style={
+                    this.props.orientation === "portrait"
+                    ? styles.LogoStylesPortrait
+                    : styles.LogoStylesLandscape
+                }>
                     <Animated.View 
                         style={{ 
                             opacity: this.state.sellAnim,
@@ -55,11 +59,17 @@ class Logo extends Component {
 }
 
 const styles = StyleSheet.create({
-    LogoStyles:{
+    LogoStylesPortrait:{
         marginTop: 50,
         flexDirection: 'row',
         flex:1,
         maxHeight:100
+    },
+    LogoStylesLandscape:{
+        marginTop: 20,
+        flexDirection: 'row',
+        flex:1,
+        maxHeight:50
     },
     LogoSell:{
         fontSize: 40,
